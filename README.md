@@ -5,3 +5,4 @@
 - These operations are done implementing the math provided by GoPro Labs.  
 - In the LUT names the Flat gamma is refred as "log113" (as in log base 113) and linear gamma as "lin".  
 - You can download both 1D luts to convert from Flat to Linear (log113_to_lin.cube) and Linear to Flat (lin_to_log113)
+- Any question or comment feel free to write it in the Discussions section
