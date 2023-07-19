@@ -1,5 +1,5 @@
 # GoPro Flat Gamma Conversions
-![BANNERGITHUB04](https://github.com/IRCGraphic/GoPro-Flat-Gamma-Conversions/assets/113941057/600cdae5-d092-4fec-a3ee-b3aa582b1259)
+![BANNERGITHUB05](https://github.com/IRCGraphic/GoPro-Flat-Gamma-Conversions/assets/113941057/0069fb00-bd87-4ce6-96db-c7eadcc1e4d1)
 
 - A public repository of GoPro's Flat gamma 1D Luts for converting it to linear gamma and back.  
 - These operations are done implementing the math provided by GoPro Labs.  
